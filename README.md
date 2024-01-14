@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-
-- 🔭 I’m currently working on Home
-- 🌱 I’m currently learning js
-- 👯 I’m looking to collaborate on anywhere
-- 🤔 I’m looking for help with js
-- 💬 Ask me about html
-- 📫 How to reach me: camiloandresarangoreyes@gmail.com
-- 😄 Pronouns: 
-- ⚡ Fun fact: jajaja
+Estudiante de ingeniería de sistemas actualmente cursando los últimos semestres la carrera, graduado previamente de técnico en sistemas con más de 3 años y medio de experiencia brindando soluciones en soportes técnicos en el ambiente de hardware y software, redes y telecomunicaciones de manera remota, presencial y por medio de call center. De igual manera, realizando, supervisando y colaborando en proyectos de programación de escritorios incorporando lenguajes como lo son C#, JAVA, PYTHON. asimismo para entornos web usando HTML y CSS al día de hoy, añadiendo y manejando un nivel intermedio de PHP.
+------------------------------------
+Systems engineering student currently studying the last semesters of the degree, previously graduated as a systems technician with more than 3 and a half years of experience providing technical support solutions in the hardware and software, networks and telecommunications environment remotely, in person and through call center. Likewise, carrying out, supervising and collaborating on desktop programming projects incorporating languages ​​such as C#, JAVA, PYTHON. also for web environments using HTML and CSS today, adding and managing an intermediate level of PHP.
